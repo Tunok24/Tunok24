@@ -27,7 +27,7 @@ jobs:
       - name: Generate SVG map
         run: node scripts/build-map.mjs
         env:
-          STATS_URL: "https://gitvisitorstat.tunok-24.workers.dev/stats"
+          STATS_URL: "https://gitvisitstat.tunok-24.workers.dev/stats"
 
       - name: Commit updated map.svg
         uses: stefanzweifel/git-auto-commit-action@v5
