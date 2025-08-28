@@ -16,5 +16,7 @@ Either way, it's fun, and occasionally even works.
 ---
 
 ### But enough about me. Where are you from? What made you visit?
-
 [Open Playground](https://gitvisitstat.tunok-24.workers.dev/r?src=github-profile&to=https://tunok24.github.io/lab/)
+
+### Webpage Visitors on Map (live)
+![Visitor map](https://gitvisitstat.tunok-24.workers.dev/map.svg?w=1200&h=500&theme=dark)
