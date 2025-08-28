@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visitors
-![Total visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
+### Visitor Map (auto-updates)
 
 ![Visitor Map](./map.svg)
 
-Interactive map → https://tunok24.github.io/git_visit/
+Total visits badge:  
+![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
+
+Interactive (live) map → https://tunok24.github.io/git_visit/
