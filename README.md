@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visitor stats
-![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
+### Visitors
+![Total visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
 
-Interactive country map → https://tunok24.github.io/git_visit/
+![Country tilemap](https://gitvisitstat.tunok-24.workers.dev/tilemap.svg)
+
+Interactive map → https://tunok24.github.io/git_visit/
