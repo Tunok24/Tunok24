@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Visitor Map (auto-updates)
 
-![Visitor Map](./map.svg)
+![Visitor Map](./map.svg?v=1)
 
 Total visits badge:  
 ![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
