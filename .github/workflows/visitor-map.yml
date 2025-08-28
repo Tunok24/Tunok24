@@ -1,0 +1,36 @@
+name: Build visitor map
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # update every 30 minutes
+  workflow_dispatch:         # allow manual run from Actions tab
+  push:
+    paths:
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/visitor-map.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # allow committing map.svg
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm ci
+
+      - name: Generate SVG map
+        run: node scripts/build-map.mjs
+        env:
+          STATS_URL: "https://gitvisitstat.tunok-24.workers.dev/stats"
+
+      - name: Commit updated map.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update visitor map [skip ci]"
+          file_pattern: "map.svg"
