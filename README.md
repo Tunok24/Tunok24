@@ -1,21 +1,19 @@
+# Tunok24  
 
-<!--
-**Tunok24/Tunok24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profile isn’t a résumé; it’s more like a lab notebook spilled into public.  
+Projects here range from “maybe useful” to “seriously, why?” — I’m cool with both.  
 
-Here are some ideas to get you started:
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love to sketch, read non-fiction, and cook.  
+Coffee, unless it’s weak.
 
-### Visitor Map (auto-updates)
+Background: Applied Math + Theoretical Physics → veered into Medical Physics.  
+Currently dipping my toes into Physics-Informed Machine Learning — fascinating stuff.  
+Trying my best to break into grad school, and in the meantime fiddling with physics simulations.  
+There’s something deeply satisfying about turning curly and squarish equations into visuals.  
 
-Where u from?
-![Visitor Map](./map.svg?v=1)
-## Interactive (live) map → https://tunok24.github.io/git_visit/
+---
+
+### But enough about me. Where you from? What made you visit?  
+### Don’t be shy. Do say hi.  
+
+![Visitor Map](./map.svg?v=2)
