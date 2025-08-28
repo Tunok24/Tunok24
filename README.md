@@ -11,7 +11,7 @@ Currently dipping my toes into Physics-Informed Machine Learning — fascinating
 Trying my best to break into grad school, and in the meantime fiddling with physics simulations,
 turning curly and squarish equations into visuals, or into something that crashes the GPU.
 
-Either way, it's fun, and occasionally works too!
+Either way, it's fun, and occasionally even works.
 
 ---
 
