@@ -15,11 +15,8 @@ Either way, it's fun, and occasionally even works.
 
 ---
 
-### But enough about me. Where you from? What made you visit?  
-### Don’t be shy. Do say hi.  
+### But enough about me. Where are you from? What made you visit?
 
 ![Visitor Map](./map.svg?v=2)
 
 Total visit: ![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
-
-Interactive (live) map → https://tunok24.github.io/git_visit/
