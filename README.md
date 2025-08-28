@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### Visitors
 ![Total visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
 
-![Country tilemap](https://gitvisitstat.tunok-24.workers.dev/tilemap.svg)
+![Visitor Map](./map.svg)
 
 Interactive map → https://tunok24.github.io/git_visit/
