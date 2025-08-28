@@ -17,6 +17,14 @@ Either way, it's fun, and occasionally even works.
 
 ### But enough about me. Where are you from? What made you visit?
 
-![Visitor Map](./map.svg?v=2)
+### Visit interactive map
+[Open Lab](https://gitvisitstat.tunok-24.workers.dev/r?src=github-profile&to=https://tunok24.github.io/lab/)
 
-Total visit: ![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
+<p>
+  <a href="https://tunok24.github.io/lab/" target="_blank"
+     style="display:inline-block;padding:10px 14px;border:1px solid #ccc;border-radius:8px;text-decoration:none;">
+    Open Lab (constantly updating)
+  </a>
+</p>
+
+
