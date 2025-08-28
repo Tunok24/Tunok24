@@ -1,10 +1,9 @@
-## Hi there 👋
 
 <!--
 **Tunok24/Tunok24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitor stats
+![Visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Profile%20views)
+
+Interactive country map → https://tunok24.github.io/git_visit/
