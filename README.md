@@ -8,8 +8,8 @@ Coffee, unless it’s reduced to a pale, beige, liquid parody by weak brewing.
 
 Background: Applied Math + Theoretical Physics → veered into Medical Physics.  
 Currently dipping my toes into Physics-Informed Machine Learning — fascinating stuff.  
-Trying my best to break into grad school, and in the meantime fiddling with physics simulations  
-- turning curly and squarish equations into visuals, or into something that crashes the GPU.
+Trying my best to break into grad school, and in the meantime fiddling with physics simulations,
+turning curly and squarish equations into visuals, or into something that crashes the GPU.
 Either way, it's fun, and occasionally works too!
 
 ---
