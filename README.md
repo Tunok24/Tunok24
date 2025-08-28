@@ -20,4 +20,3 @@ Either way, it's fun, and occasionally even works.
 
 ### Webpage Visitors on Map (live)
 ![Visitor map]([https://gitvisitstat.tunok-24.workers.dev/map.svg?w=1200&h=500&v=1])
-
