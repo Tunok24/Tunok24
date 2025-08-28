@@ -19,12 +19,4 @@ Either way, it's fun, and occasionally even works.
 
 ### Visit interactive map
 [Open Lab](https://gitvisitstat.tunok-24.workers.dev/r?src=github-profile&to=https://tunok24.github.io/lab/)
-
-<p>
-  <a href="https://tunok24.github.io/lab/" target="_blank"
-     style="display:inline-block;padding:10px 14px;border:1px solid #ccc;border-radius:8px;text-decoration:none;">
-    Open Lab (constantly updating)
-  </a>
-</p>
-
-
+![Total visits](https://gitvisitstat.tunok-24.workers.dev/badge?label=Lab%20visits)
